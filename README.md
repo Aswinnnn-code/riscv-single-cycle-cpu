@@ -56,6 +56,10 @@ Verified outputs:
 * x6 = 15
 * x7 = 15
 
+## Simulation Waveform
+
+![Waveform](waveform.png)
+
 ## Tools Used
 
 * Verilog HDL
